@@ -76,7 +76,7 @@ body
 
 .feature-box h1
 {
-    font-size: 25px;
+    font-size: 35px;
     text-transform: uppercase;
     font-weight: 600;   
     margin-top: 2em;
@@ -84,7 +84,7 @@ body
 
 .feature-box p
 {
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
 }
 
