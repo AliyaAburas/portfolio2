@@ -13,7 +13,7 @@ body
 
 
 
-/* Heder */
+/* Header */
 #homeFullScreen {
     width: 100%;
     background-repeat: no-repeat;
@@ -76,7 +76,7 @@ body
 
 .feature-box h1
 {
-    font-size: 35px;
+    font-size: 30x;
     text-transform: uppercase;
     font-weight: 600;   
     margin-top: 2em;
