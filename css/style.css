@@ -36,10 +36,7 @@ html, body {
 }
 
 #homeFullScreen {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-    margin: auto;
+    /* use flexbox for full-width centering; remove table-cell overrides */
 }
 
 .header-text h1
@@ -400,10 +397,7 @@ body
 }
 
 #homeFullScreen {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-    margin: auto;
+    /* media-query duplicate removed to preserve flex layout */
 }
 
 .header-text h1
